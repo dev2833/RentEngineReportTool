@@ -24,8 +24,8 @@ RentEngine Reporting Tool is an end-to-end leasing platform that covers the enti
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/pro335/rentengine-reporting-tool
-    cd rentengine-reporting-tool
+    git clone https://github.com/pro335/RentEngineReportTool
+    cd RentEngineReportTool
     ```
 
 2. **Install backend dependencies:**
