@@ -70,6 +70,8 @@ RentEngine Reporting Tool is an end-to-end leasing platform that covers the enti
 
 3. Open your browser and navigate to `http://localhost:3000` to view the RentEngine Reporting Tool.
 
+![alt text](image.png)
+
 ## Conclusion
 This tool helps in monitoring the health statuses of property listings across various partner sites.
 
