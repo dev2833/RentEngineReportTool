@@ -59,7 +59,7 @@ RentEngine Reporting Tool is an end-to-end leasing platform that covers the enti
 ## Running the Project
 1. Ensure the backend server is running by executing:
     ```bash
-    npx ts-node src/server.ts
+    npx ts-node server.ts
     ```
 
 2. Ensure the frontend server is running by executing:
