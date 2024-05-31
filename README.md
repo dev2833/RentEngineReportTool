@@ -36,7 +36,7 @@ RentEngine Reporting Tool is an end-to-end leasing platform that covers the enti
 
 3. **Run the backend server:**
     ```bash
-    npx ts-node src/server.ts
+    npx ts-node server.ts
     ```
 
 ### Frontend Setup
